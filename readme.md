@@ -1,4 +1,4 @@
-# Foam
+# mario
 
 👋 Welcome to your new Foam Workspace!
 
